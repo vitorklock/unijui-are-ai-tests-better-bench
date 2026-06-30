@@ -8,5 +8,5 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
   },
-  "include": ["src", "tests"]
+  "include": ["src", "tests", "../validator/runs/claude-opus-ultracode-p1/tests/number-validator.test.ts"]
 }

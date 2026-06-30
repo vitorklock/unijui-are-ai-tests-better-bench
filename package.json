@@ -1,0 +1,16 @@
+{
+  "name": "number-validator",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A small numeric value validator with JSON Schema output.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "@types/json-schema": "^7.0.11",
+    "typescript": "^5.4.0",
+    "vitest": "^1.6.0"
+  }
+}

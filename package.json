@@ -1,8 +1,8 @@
 {
-  "name": "number-validator",
+  "name": "expression-parser",
   "private": true,
   "version": "1.0.0",
-  "description": "A small numeric value validator with JSON Schema output.",
+  "description": "An expression evaluator with the goal to support SQL-like WHERE clauses.",
   "type": "module",
   "scripts": {
     "test": "vitest run",
